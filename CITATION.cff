@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "hamiltonian-vqe-kit: Validated, Honest VQE and ADAPT-VQE Toolkit"
+authors:
+  - family-names: "Khan"
+    given-names: "Ashraf"
+    email: "research@appliedquantum.ai"
+version: 0.1.0-dev
+date-released: 2026-10-09
+license: "Apache-2.0"
+repository-code: "https://github.com/aashiq-parinda/hamiltonian-vqe-kit"
+references:
+  - type: article
+    title: "Rigorous Generalization Study: Transformer-Accelerated VQE Warm-Starting Across Multi-Molecule Families"
+    authors:
+      - family-names: "Khan"
+        given-names: "Ashraf"
+    year: 2026
+    doi: "10.5281/zenodo.22013110"
+    url: "https://doi.org/10.5281/zenodo.22013110"
+    notes: "Foundational prior research informing the Hamiltonian VQE Kit architecture."
