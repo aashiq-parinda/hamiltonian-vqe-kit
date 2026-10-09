@@ -1,5 +1,6 @@
 # Hamiltonian VQE Kit (`hvk`)
 
+[![PyPI version](https://img.shields.io/pypi/v/hamiltonian-vqe-kit.svg?color=blue)](https://pypi.org/project/hamiltonian-vqe-kit/)
 [![CI](https://github.com/aashiq-parinda/hamiltonian-vqe-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/aashiq-parinda/hamiltonian-vqe-kit/actions)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
