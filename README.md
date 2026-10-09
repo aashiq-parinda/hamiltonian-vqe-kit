@@ -8,6 +8,10 @@
 [![Code Style: Ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![Type Checked: Mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](https://mypy-lang.org/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aashiq-parinda/hamiltonian-vqe-kit/main/assets/banner.jpg" alt="Hamiltonian VQE Kit Banner" width="100%">
+</p>
+
 **Hamiltonian VQE Kit (`hvk`)** is an open-source, scientifically validated toolkit designed to take any molecular or qubit Hamiltonian and synthesize a diagnosed VQE / ADAPT-VQE workflow capable of achieving **chemical accuracy ($\le 1.6\,\text{mHa}$ vs. Full Configuration Interaction / FCI)** with strict, verifiable accounting of quantum simulation cost.
 
 ---

@@ -10,7 +10,7 @@ def test_package_metadata() -> None:
     """Verify package version, author, and license metadata."""
     assert hasattr(hvk, "__version__")
     assert isinstance(hvk.__version__, str)
-    assert hvk.__version__ == "0.1.0"
+    assert hvk.__version__ == "0.1.1"
     assert hvk.__license__ == "Apache-2.0"
     assert "Ashraf Khan" in hvk.__author__
 
