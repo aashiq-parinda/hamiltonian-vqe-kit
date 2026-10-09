@@ -1,6 +1,7 @@
 # Hamiltonian VQE Kit (`hvk`)
 
 [![PyPI version](https://img.shields.io/pypi/v/hamiltonian-vqe-kit.svg?color=blue)](https://pypi.org/project/hamiltonian-vqe-kit/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aashiq-parinda/hamiltonian-vqe-kit/blob/main/notebooks/01_quickstart_chemistry.ipynb)
 [![CI](https://github.com/aashiq-parinda/hamiltonian-vqe-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/aashiq-parinda/hamiltonian-vqe-kit/actions)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
@@ -9,6 +10,8 @@
 [![Type Checked: Mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](https://mypy-lang.org/)
 
 ![Hamiltonian VQE Kit Banner](https://raw.githubusercontent.com/aashiq-parinda/hamiltonian-vqe-kit/main/assets/banner.jpg)
+
+> 🚀 **Run in Browser**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aashiq-parinda/hamiltonian-vqe-kit/blob/main/notebooks/01_quickstart_chemistry.ipynb) — Step-by-step interactive tutorial with pre-computed molecular energy surfaces and reference validations.
 
 **Hamiltonian VQE Kit (`hvk`)** is an open-source, scientifically validated toolkit designed to take any molecular or qubit Hamiltonian and synthesize a diagnosed VQE / ADAPT-VQE workflow capable of achieving **chemical accuracy (≤ 1.6 mHa vs. Full Configuration Interaction / FCI)** with strict, verifiable accounting of quantum simulation cost.
 
