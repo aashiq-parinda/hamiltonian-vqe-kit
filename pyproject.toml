@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hamiltonian-vqe-kit"
-version = "0.1.0.dev0"
+version = "0.1.0"
 description = "Validated, honest VQE and ADAPT-VQE toolkit for chemical accuracy and honest cost accounting"
 readme = "README.md"
 requires-python = ">=3.10"
