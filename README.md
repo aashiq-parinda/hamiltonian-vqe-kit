@@ -59,6 +59,14 @@ pip install "hamiltonian-vqe-kit[chemistry,dev]"
 pip install "hamiltonian-vqe-kit[ml]"
 ```
 
+### 📓 Interactive Notebooks
+
+Run the pre-executed interactive tutorial with embedded plots and validations:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aashiq-parinda/hamiltonian-vqe-kit/blob/main/notebooks/01_quickstart_chemistry.ipynb)
+
+* **[`notebooks/01_quickstart_chemistry.ipynb`](notebooks/01_quickstart_chemistry.ipynb)**: Load H₂ & LiH, verify exact PySCF reference parity, map Jordan-Wigner Hamiltonians, plot Potential Energy Surfaces (PES) with Matplotlib, and compute native Pauli commutators and eigensolvers.
+
 ### Command-Line Interface (CLI)
 
 ```bash
