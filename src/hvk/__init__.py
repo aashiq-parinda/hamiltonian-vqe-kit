@@ -5,7 +5,7 @@ Validated, honest VQE and ADAPT-VQE toolkit for chemical accuracy and honest cos
 
 from typing import Final
 
-__version__: Final[str] = "0.1.1"
+__version__: Final[str] = "0.1.2"
 __author__: Final[str] = "Ashraf Khan"
 __license__: Final[str] = "Apache-2.0"
 
