@@ -38,6 +38,7 @@ dev = [
 ]
 chemistry = [
     "pyscf>=2.4.0; platform_system != 'Windows'",
+    "openfermion>=1.6.0",
 ]
 ml = [
     "torch>=2.0.0",
